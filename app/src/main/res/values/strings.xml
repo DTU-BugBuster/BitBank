@@ -318,7 +318,8 @@
     <string name="nearby_hotels">Nearby Hotels</string>
     <string name="title_activity_trips">TripsActivity</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="home">Home</string>
+    <string name="pay">Pay</string>
+    <string name="mall">Mall</string>
+    <string name="bank">Bank</string>
 </resources>
